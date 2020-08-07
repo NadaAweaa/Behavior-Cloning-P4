@@ -13,7 +13,6 @@ Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/4
 ### Project Files
 |  Filename   |   Description  | 
 |:-------------:|:-------------:|
-| prepare_data.ipynb |  ipython notebook for data preprocessing and argumentation |
 | model.py | define and train the neual network |
 | model.h5 | saved model by keras |
 | drive.py | communicate with simulator and use saved model to predict steering angle  |
