@@ -80,7 +80,8 @@ The model was trained and validated on different data sets to ensure that the mo
 ### Model parameter tuning
 
 * No of epochs= 5
-* Optimizer Used- Adam
+* Optimizer Used- Adam 
+* Learing rate = 0.0001
 * Validation Data split- 0.2
 * Generator batch size= 32
 * Loss Function Used- MSE(Mean Squared Error as it is efficient for regression problem).
