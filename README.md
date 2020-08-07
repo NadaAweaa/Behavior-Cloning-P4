@@ -17,7 +17,7 @@ Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/4
 | model.py | define and train the neual network |
 | model.h5 | saved model by keras |
 | drive.py | communicate with simulator and use saved model to predict steering angle  |
-| video.ogv | track 1 video record |
+| video.mp4 | track 1 video record |
 
 ### Usage
 Download simulator from [thie repository](https://github.com/udacity/self-driving-car-sim), run the simulator in 
